@@ -25,6 +25,8 @@ Motivated by the fact that videos can be decomposed into spatial and temporal co
 [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/abs/1411.4389)
 [Beyond Short Snippets: Deep Networks for Video Classification](https://arxiv.org/pdf/1503.08909v2.pdf)
 
+![](images/ng.png)
+
 ## Requirements & Dependencies
 - Python 2.7
 - [Numpy](http://www.numpy.org/)
